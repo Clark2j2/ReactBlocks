@@ -1,0 +1,9 @@
+.Main {
+    width: 675px;
+    height: 560px;
+    padding: 15px; 
+    background-color: #e06666; 
+    border: 2px solid black;
+    display: inline-block;
+    
+}

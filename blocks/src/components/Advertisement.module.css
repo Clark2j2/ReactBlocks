@@ -1,0 +1,11 @@
+.Advertisement {
+    display: inline-block;
+    width: 545px;
+    height: 35px;
+    padding: 50px; 
+    margin-top: 5px;
+    background-color: #b4a7d6; 
+    border: 2px solid black;
+    vertical-align: bottom;
+    
+}
